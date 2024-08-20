@@ -16,4 +16,4 @@ commit #1 prueba
 *Definir toda variable pública es una mala practica*
 
 # Interfases vs clase abstracta
-  interfases: un conjunto de métodos que una clase puede implementar
+  interfases: un conjunto de métodos que una clase puede implementar, no se pueden deifinir variables y/o atributos
