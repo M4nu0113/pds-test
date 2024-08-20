@@ -17,5 +17,6 @@ commit #1 prueba
 
 # Interfases vs clase abstracta
   interfases: un conjunto de métodos que una clase puede implementar, no se pueden deifinir variables y/o atributos
+  obliga a las clases a tener una estructura para seguir 
 
 *PROYECTO MINIMO DE 6 TABLAS*
