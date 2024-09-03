@@ -7,10 +7,12 @@ namespace Catalogodo.Clases
 	{
 		private int id = 0;
 		private string categoria = " ";
+        private List<Productos> productos= new List<Productos>();
  
 		// propiedades
 		public int Id { get => this.id; set => this.id = value; }
 		public string Categoria { get => this.categoria; set => this.categoria = value; }
+        public List<Productos> Productos { get => this.productos; set => this.productos = value; }
 	}
  
 	public class Fabricantes
@@ -18,21 +20,24 @@ namespace Catalogodo.Clases
 		private int id = 0;
 		private string nombre = " ";
 		private string contacto = " ";
+        private List<Productos> productos= new List<Productos>();
  
 		// propiedades
 		public int Id { get => this.id; set => this.id = value; }
 		public string Nombre { get => this.nombre; set => this.nombre = value; }
 		public string Contacto { get => this.contacto; set => this.contacto = value; }
+        public List<Productos> Productos { get => this.productos; set => this.productos = value; }
 	}
 
     public class Estados{
         private int id = 0;
         private string nombre = " ";
+        private List<Publicaciones> publicaciones = new List<Publicaciones>();
  
         // propiedades
         public int Id { get => this.id; set => this.id = value; }
         public string Nombre { get => this.nombre; set => this.nombre = value; }
-
+        public List<Publicaciones> Publicaciones { get => this.publicaciones; set => this.publicaciones = value; }
     }
 
     public class Imagenes{
