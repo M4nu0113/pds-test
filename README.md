@@ -24,3 +24,28 @@ commit #1 prueba
 Testeo en casa:
 
 creating a new branch test 
+
+03-09-24
+## Base de datos
+Entity Framework: 
+SQL SERVER 
+Controlador
+convierte la base de datos en un dataset o algo que se pueda leer en codigo
+SET * FROM ... WHERE  es mala practica porque es inseguro
+PROCEDURES 
+Maestro de detalle
+DATASET N = cantidad de tablas
+PDB; Saber cual es el server; poner el user y contraseña, certificado
+Abrir conexión con los parmametros de arriba
+Hacer lo que vamos a hacer, en las consultas se puede por comandos o por texto
+Cerrar 
+
+abrir()
+.
+.
+.
+consultas
+.
+.
+.
+cerrar()
