@@ -56,3 +56,11 @@ _________________________________________________________
 Modelo en un documento explicado(MER)
 Base de datos conectada con sus respectivos métodos
 Sustentación
+
+## Clase 17/09
+Nueva libreria : Lib_repositorios
+Nombre de la solucion: Nombre del proyecto
+PLANTILLA LIBRERIA DE CLASES 
+todas las librerias quedan asociadas a la solucion 
+Obligatoriamente hay que tener usuarios con accesos más otra tabla
+Auditorias
