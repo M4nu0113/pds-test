@@ -49,3 +49,10 @@ consultas
 .
 .
 cerrar()
+
+
+### Entregable para el jueves 26 de sept
+_________________________________________________________
+Modelo en un documento explicado(MER)
+Base de datos conectada con sus respectivos métodos
+Sustentación
